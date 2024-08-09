@@ -62,7 +62,7 @@ hideList=привод, топливо,объём, цвет
 
 ; custom text at the top of the URL
 text = Срочно!
-
+```
 # For developers
 Bot is fully asynchronous, so do not use sync libraries. As cron library, was chosen APScheduler (AsyncIOScheduler mode).
 
